@@ -1,4 +1,4 @@
-# Project-Bank-Loan-Of-Customers
+# Bank-Loan-Of-Customers-Project
 
 The project involves analyzing loan data provided by a financial institution for diverse customers with a range of grades and sub-grade levels, considering loan disbursement reasons, funded amount, revolving balance values, payment modes, and last payment values across different states.
 
