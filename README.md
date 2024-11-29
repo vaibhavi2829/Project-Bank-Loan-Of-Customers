@@ -24,7 +24,9 @@ The project involves analyzing loan data provided by a financial institution for
 ##### Power BI Desktop , Tableau , MySQL , Excel
 
 
+ ( <br> )
+ 
 #### Methodologies: 
-I have used Power Query Editor to make necessary ETL transformations to my dataset so that I can perform my visualizations in simplified manner. Usage of MySQL to retrieve the required columns for a specific KPI and then made visualizations in PowerBI , Tableau.
+Used Power Query Editor to make necessary ETL transformations to my dataset so that I can perform my visualizations in simplified manner. Usage of MySQL to retrieve the required columns for a specific KPI and then made visualizations in PowerBI , Tableau.
 
 
